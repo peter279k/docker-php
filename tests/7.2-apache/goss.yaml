@@ -22,7 +22,7 @@ package:
     installed: true
 port:
   tcp:80:
-    listening: false
+    listening: true
     ip: []
 process:
   httpd:
